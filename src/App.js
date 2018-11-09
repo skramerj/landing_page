@@ -11,9 +11,6 @@ const background = {
 }
 
 export default class App extends Component {
-	constructor(props){
-		super(props);
-
   render() {
     return (
 			<div className="background" style={background}>
