@@ -33,7 +33,7 @@ const LeadWrapperDiv = styled.div`
   animation: 2s ${fadeAnimation};
  `
 
-export default class LeadCapture extends Component {
+export default class LeadCaptureButton extends Component {
 	render() {
 		return (
 			<LeadWrapperDiv className="lead capture wrapper" style={{textAlign: "center", marginBottom: "80px"}}>
