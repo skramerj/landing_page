@@ -10,15 +10,26 @@ const background = {
 	overflow: "hidden"
 }
 
+var to_render = (
+	<div className="background" style={background}>
+		<HeroText />
+		<ValueIcons />
+		<LeadCaptureButton />
+	</div>
+	)
+
+if (window.innerWidth < 600) {
+	to_render = (
+		<div className="background" style={background}>
+			<HeroText />
+			<LeadCaptureButton />
+		</div>
+		)
+}
+
 export default class App extends Component {
   render() {
-    return (
-			<div className="background" style={background}>
-				<HeroText />
-				<ValueIcons />
-				<LeadCaptureButton />
-			</div>
-   	);
+    return to_render;
   }
 }
 

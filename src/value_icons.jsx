@@ -15,7 +15,7 @@ const icon_div = {
 	width: "14%",
 	verticalAlign: "middle",
 	margin: "0 3%", 
-	marginBottom: "60px"
+	marginBottom: "70px"
 }
 
 const icon_label = {

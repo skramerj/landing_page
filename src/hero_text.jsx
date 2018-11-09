@@ -12,7 +12,7 @@ const header = {
 	fontWeight: "700",
 	fontSize: "60px",
 	lineHeight: "1.0",
-	marginBottom: "-5px",
+	marginBottom: "25px",
 	fontSmoothing: "antialiased",
 }
 
@@ -22,7 +22,7 @@ const subHeader = {
 	fontFamily: hero_font_2, 
 	fontWeight: "600",
 	fontSize: "25px", 
-	marginBottom: "80px",
+	marginBottom: "60px",
 	lineHeight: "35px",
 	fontSmoothing: "antialiased!important"
 }
