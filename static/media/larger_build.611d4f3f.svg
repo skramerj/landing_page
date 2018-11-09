@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="100px" viewBox="0 0 98 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-pixel-precision</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-899.000000, -323.000000)" fill-rule="nonzero">
+            <g id="Background">
+                <g id="Content" transform="translate(199.000000, 49.000000)">
+                    <g id="Value-Props" transform="translate(0.000000, 274.000000)">
+                        <g id="Large-Format" transform="translate(677.000000, 0.000000)">
+                            <g id="icon-pixel-precision" transform="translate(23.324324, 0.000000)">
+                                <path d="M48.6486486,100 C96.9222973,100 97.2972973,77.6145833 97.2972973,50 C97.2972973,22.3854167 96.9222973,0 48.6486486,0 C0.375,0 0,22.3854167 0,50 C0,77.6145833 0.375,100 48.6486486,100 Z" id="Shape" fill="#F58181"></path>
+                                <rect id="Rectangle-3" stroke="#555153" stroke-width="3" fill="#FFFFFF" x="16.5" y="17.5" width="65" height="65" rx="5"></rect>
+                                <path d="M70.1756757,21.5 L76.5,26.5" id="Line" stroke="#555153" stroke-width="3" stroke-linecap="square"></path>
+                                <path d="M72.6756757,25 L26.6756757,76" id="Line" stroke="#555153" stroke-width="3" stroke-linecap="square"></path>
+                                <path d="M22.1756757,72.5 L29.5,78.5" id="Line" stroke="#555153" stroke-width="3" stroke-linecap="square"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
