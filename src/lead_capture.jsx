@@ -15,12 +15,8 @@ const MyButton = styled.button`
   height: 50px;
   width: 320px;
   outline: none;
-  fontFamily: hero_font_1;
   
   &:hover {
-  background: #F58181;
-  border: 2px solid #2D7BC8;
-  border-radius: 3px;
   cursor: pointer;
 }`;  
 

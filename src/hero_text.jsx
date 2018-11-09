@@ -40,7 +40,7 @@ export default class HeroText extends Component {
 		return(
 			<HeroDiv className="hero texts">
 				<h1 style={header}>Praxis is built<br />for engineers like you.</h1>
-				<h3 style={subHeader}>With free next day delivery, 5-Axis printing,<br />and the simplest upload page ever -<br />we make prototyping easier in NYC.</h3>
+				<h3 style={subHeader}>With free next day delivery, 5-axis printing,<br />and the simplest upload page ever -<br />we make prototyping easier in NYC.</h3>
 			</HeroDiv>
 		)
 	}
