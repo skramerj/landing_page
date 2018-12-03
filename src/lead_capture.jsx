@@ -29,13 +29,11 @@ export default class LeadCaptureButton extends Component {
 	render() {
 		return (
 			<LeadWrapperDiv className="lead capture wrapper" style={{textAlign: "center", marginBottom: "130px"}}>
-        <MyButton 
-        style={{marginBottom: "30px", marginTop: "40px", width: "200px", height: "65px"}}
-        >
-        <a href="https://samkramer.typeform.com/to/eVilad" style={{color: "white", fontWeight: "500", fontSize: "16px"}}>
-        REQUEST AN INVITATION KEY
+      <div style={{marginTop: "60px", marginBottom: "100px"}}>
+        <a href="https://samkramer.typeform.com/to/eVilad" style={{color: "white", fontWeight: "500", fontSize: "26px", fontFamily: hero_font_1}}>
+          REQUEST AN<br/>INVITATION KEY
         </a>
-        </MyButton>
+      </div>
      </LeadWrapperDiv>
 		)
 	}
