@@ -6,7 +6,7 @@ const hero_font_2 = "system-ui, -apple-system, system-ui, Helvetica Neue, Helvet
 
 const HeroDiv = styled.div`
   margin: auto, 
-  marginTop: 20px,
+  marginTop: 40px,
   display: inline-block;
  `
 
@@ -17,7 +17,7 @@ const header = {
 	fontWeight: "700",
 	fontSize: "60px",
 	lineHeight: "1.0",
-	marginBottom: "45px",
+	marginBottom: "55px",
 	marginLeft: "24px",
 	marginRight: "24px",
 	fontSmoothing: "antialiased",
@@ -29,7 +29,7 @@ const subHeader = {
 	fontFamily: hero_font_2, 
 	fontWeight: "400",
 	fontSize: "25px", 
-	marginBottom: "0px",
+	marginBottom: "20px",
 	marginLeft: "24px",
 	marginRight: "24px",
 	lineHeight: "35px",
