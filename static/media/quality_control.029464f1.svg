@@ -14,18 +14,18 @@
                         <g id="Quality-Control" transform="translate(0.000000, 3.000000)">
                             <g id="icon-pixel-precision" transform="translate(39.873626, 0.000000)">
                                 <path d="M48.6263736,100 C96.877919,100 97.2527473,77.6145833 97.2527473,50 C97.2527473,22.3854167 96.877919,0 48.6263736,0 C0.374828297,0 0,22.3854167 0,50 C0,77.6145833 0.374828297,100 48.6263736,100 Z" id="Shape" fill="#F58181"></path>
-                                <g id="Shape">
-                                    <use stroke="#555153" fill="#FFFFFF" xlink:href="#path-1"></use>
-                                    <use stroke="#555153" xlink:href="#path-1"></use>
-                                    <use stroke="#555153" xlink:href="#path-1"></use>
-                                    <use stroke="#555153" xlink:href="#path-1"></use>
-                                    <use stroke="#555153" xlink:href="#path-1"></use>
-                                    <use stroke="#555153" xlink:href="#path-1"></use>
-                                    <use stroke="#555153" xlink:href="#path-1"></use>
-                                    <use stroke="#555153" xlink:href="#path-1"></use>
-                                    <use stroke="#555153" xlink:href="#path-1"></use>
-                                    <use stroke="#555153" xlink:href="#path-1"></use>
-                                    <use stroke="#565053" xlink:href="#path-1"></use>
+                                <g id="Shape" stroke="#333333">
+                                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                                    <use xlink:href="#path-1"></use>
+                                    <use xlink:href="#path-1"></use>
+                                    <use xlink:href="#path-1"></use>
+                                    <use xlink:href="#path-1"></use>
+                                    <use xlink:href="#path-1"></use>
+                                    <use xlink:href="#path-1"></use>
+                                    <use xlink:href="#path-1"></use>
+                                    <use xlink:href="#path-1"></use>
+                                    <use xlink:href="#path-1"></use>
+                                    <use xlink:href="#path-1"></use>
                                 </g>
                             </g>
                         </g>
