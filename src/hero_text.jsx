@@ -1,9 +1,14 @@
 import React, { Component } from 'react';
-import styled, { keyframes } from "styled-components";
-import { fadeInUp } from 'react-animations'
+import styled from "styled-components";
 
 const hero_font_1 = "Eina01-Bold, system-ui, -apple-system, system-ui, Helvetica Neue, Helvetica, Arial, sans-serif";
 const hero_font_2 = "system-ui, -apple-system, system-ui, Helvetica Neue, Helvetica, Arial, sans-serif"
+
+const HeroDiv = styled.div`
+  margin: auto, 
+  marginTop: 20px,
+  display: inline-block;
+ `
 
 const header = {
 	textAlign: 'center', 
@@ -12,7 +17,9 @@ const header = {
 	fontWeight: "700",
 	fontSize: "60px",
 	lineHeight: "1.0",
-	marginBottom: "25px",
+	marginBottom: "45px",
+	marginLeft: "24px",
+	marginRight: "24px",
 	fontSmoothing: "antialiased",
 }
 
@@ -20,27 +27,21 @@ const subHeader = {
 	textAlign: 'center', 
 	color: "white",
 	fontFamily: hero_font_2, 
-	fontWeight: "600",
+	fontWeight: "400",
 	fontSize: "25px", 
-	marginBottom: "60px",
+	marginBottom: "0px",
+	marginLeft: "24px",
+	marginRight: "24px",
 	lineHeight: "35px",
 	fontSmoothing: "antialiased!important"
 }
 
-const fadeAnimation = keyframes`${fadeInUp}`;
-
-const HeroDiv = styled.div`
-  margin: auto, 
-  display: inline-block;
-  animation: .6s ${fadeAnimation};
- `
-
 export default class HeroText extends Component {
 	render() {
 		return(
-			<HeroDiv className="hero texts">
+			<HeroDiv className="hero text">
 				<h1 style={header}>Praxis is built<br />for engineers like you.</h1>
-				<h3 style={subHeader}>With free next day delivery, 5-axis printing,<br />and the simplest upload page ever -<br />we make prototyping easier in NYC.</h3>
+				<h3 style={subHeader}>With free next day delivery, 5-axis printing,<br/> and the simplest upload page ever we make prototyping easier in NYC.</h3>
 			</HeroDiv>
 		)
 	}

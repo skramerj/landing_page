@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="98px" height="100px" viewBox="0 0 98 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="98px" height="148px" viewBox="0 0 98 148" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icon-pixel-precision</title>
+    <title>Next Day Delivery</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Desktop-HD" transform="translate(-685.000000, -323.000000)" fill-rule="nonzero">
+        <g id="Desktop-HD" transform="translate(-685.000000, -323.000000)">
             <g id="Background">
                 <g id="Content" transform="translate(199.000000, 49.000000)">
                     <g id="Value-Props" transform="translate(0.000000, 274.000000)">
                         <g id="Next-Day-Delivery" transform="translate(463.000000, 0.000000)">
-                            <g id="icon-pixel-precision" transform="translate(23.324324, 0.000000)">
+                            <g id="icon-pixel-precision" transform="translate(23.324324, 0.000000)" fill-rule="nonzero">
                                 <path d="M48.6486486,100 C96.9222973,100 97.2972973,77.6145833 97.2972973,50 C97.2972973,22.3854167 96.9222973,0 48.6486486,0 C0.375,0 0,22.3854167 0,50 C0,77.6145833 0.375,100 48.6486486,100 Z" id="Shape" fill="#F58181"></path>
-                                <circle id="Oval" stroke="#555153" stroke-width="3" fill="#FFFFFF" cx="49.5" cy="50.5" r="31.5"></circle>
-                                <rect id="Rectangle-2" stroke="#555153" stroke-width="2" fill="#565053" x="48.6756757" y="32" width="2" height="20" rx="1"></rect>
-                                <rect id="Rectangle-2" stroke="#555153" stroke-width="2" fill="#565053" transform="translate(58.648649, 51.000000) rotate(90.000000) translate(-58.648649, -51.000000) " x="57.6486486" y="41" width="2" height="20" rx="1"></rect>
+                                <circle id="Oval" stroke="#333333" stroke-width="3" fill="#FFFFFF" cx="49.5" cy="50.5" r="31.5"></circle>
+                                <rect id="Rectangle-2" stroke="#333333" stroke-width="2" fill="#565053" x="48.6756757" y="32" width="2" height="20" rx="1"></rect>
+                                <rect id="Rectangle-2" stroke="#333333" stroke-width="2" fill="#565053" transform="translate(58.648649, 51.000000) rotate(90.000000) translate(-58.648649, -51.000000) " x="57.6486486" y="41" width="2" height="20" rx="1"></rect>
                             </g>
+                            <text id="NEXT-DAY-DELIVERY" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" letter-spacing="2.208" fill="#FFFFFF">
+                                <tspan x="34.4883243" y="133">NEXT DAY </tspan>
+                                <tspan x="34.9323243" y="148">DELIVERY</tspan>
+                            </text>
                         </g>
                     </g>
                 </g>

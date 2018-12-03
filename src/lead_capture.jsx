@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import styled, { keyframes } from "styled-components";
-import { fadeIn } from 'react-animations'
+import styled from "styled-components";
 
 const hero_font_1 = "Eina01-Bold, system-ui, -apple-system, system-ui, Helvetica Neue, Helvetica, Arial, sans-serif";
 
@@ -21,22 +20,19 @@ const MyButton = styled.button`
 }`;  
 
 
-const fadeAnimation = keyframes`${fadeIn}`;
-
 const LeadWrapperDiv = styled.div`
   margin: auto, 
   display: inline-block;
-  animation: 2s ${fadeAnimation};
  `
 
 export default class LeadCaptureButton extends Component {
 	render() {
 		return (
-			<LeadWrapperDiv className="lead capture wrapper" style={{textAlign: "center", marginBottom: "80px"}}>
+			<LeadWrapperDiv className="lead capture wrapper" style={{textAlign: "center", marginBottom: "130px"}}>
         <MyButton 
-        style={{marginBottom: "60px"}}
+        style={{marginBottom: "30px", marginTop: "40px", width: "200px", height: "65px"}}
         >
-        <a href="https://samkramer.typeform.com/to/eVilad" style={{color: "white", fontWeight: "500"}}>
+        <a href="https://samkramer.typeform.com/to/eVilad" style={{color: "white", fontWeight: "500", fontSize: "16px"}}>
         REQUEST AN INVITATION KEY
         </a>
         </MyButton>
