@@ -1,15 +1,15 @@
 {
-  "main.js": "praxismfg.com/static/js/main.e89c5c15.chunk.js",
-  "main.js.map": "praxismfg.com/static/js/main.e89c5c15.chunk.js.map",
-  "static/js/1.64174cd9.chunk.js": "praxismfg.com/static/js/1.64174cd9.chunk.js",
-  "static/js/1.64174cd9.chunk.js.map": "praxismfg.com/static/js/1.64174cd9.chunk.js.map",
-  "runtime~main.js": "praxismfg.com/static/js/runtime~main.24504f92.js",
-  "runtime~main.js.map": "praxismfg.com/static/js/runtime~main.24504f92.js.map",
-  "static/media/quality_control.svg": "praxismfg.com/static/media/quality_control.029464f1.svg",
-  "static/media/larger_build.svg": "praxismfg.com/static/media/larger_build.c6b8d20c.svg",
-  "static/media/next_day_delivery.svg": "praxismfg.com/static/media/next_day_delivery.630c53db.svg",
-  "static/media/consistent_tolerances.svg": "praxismfg.com/static/media/consistent_tolerances.3637b41c.svg",
-  "index.html": "praxismfg.com/index.html",
-  "precache-manifest.375087c0ce3110d31411bfbab75f90c2.js": "praxismfg.com/precache-manifest.375087c0ce3110d31411bfbab75f90c2.js",
-  "service-worker.js": "praxismfg.com/service-worker.js"
+  "main.js": "/static/js/main.e89c5c15.chunk.js",
+  "main.js.map": "/static/js/main.e89c5c15.chunk.js.map",
+  "static/js/1.35f9d7fe.chunk.js": "/static/js/1.35f9d7fe.chunk.js",
+  "static/js/1.35f9d7fe.chunk.js.map": "/static/js/1.35f9d7fe.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/quality_control.svg": "/static/media/quality_control.029464f1.svg",
+  "static/media/larger_build.svg": "/static/media/larger_build.c6b8d20c.svg",
+  "static/media/next_day_delivery.svg": "/static/media/next_day_delivery.630c53db.svg",
+  "static/media/consistent_tolerances.svg": "/static/media/consistent_tolerances.3637b41c.svg",
+  "index.html": "/index.html",
+  "precache-manifest.86d47279d658e727d1933109d1392ee5.js": "/precache-manifest.86d47279d658e727d1933109d1392ee5.js",
+  "service-worker.js": "/service-worker.js"
 }
