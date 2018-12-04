@@ -3,15 +3,15 @@ import HeroText from './hero_text.jsx';
 import ValueIcons from './value_icons.jsx';
 import LeadCaptureButton from './lead_capture.jsx';
 
-const background = {
+const background_div = {
 	Height: "100%",
 	backgroundColor: "#2D7BC8", 
 	paddingTop: "10px", 
 	overflow: "hidden"
 }
 
-var to_render = (
-	<div className="background" style={background}>
+var render = (
+	<div className="background" style={background_div}>
 		<HeroText />
 		<ValueIcons />
 		<LeadCaptureButton />
@@ -19,8 +19,8 @@ var to_render = (
 	)
 
 if (window.innerWidth < 600) {
-	to_render = (
-		<div className="background" style={background}>
+	render = (
+		<div className="background" style={background_div}>
 			<HeroText />
 			<LeadCaptureButton />
 		</div>
@@ -29,7 +29,7 @@ if (window.innerWidth < 600) {
 
 export default class App extends Component {
   render() {
-    return to_render;
+    return render;
   }
 }
 
