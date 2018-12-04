@@ -3,23 +3,6 @@ import styled from "styled-components";
 
 const hero_font_1 = "Eina01-Bold, system-ui, -apple-system, system-ui, Helvetica Neue, Helvetica, Arial, sans-serif";
 
-const MyButton = styled.button`
-  font-size: 1.2em;
-  marginRight: 1em;
-  padding: 0.0em .8em;
-  border: 2px solid white;
-  border-radius: 5px;
-  background: #2D7BC8;
-  color: white;
-  height: 50px;
-  width: 320px;
-  outline: none;
-  
-  &:hover {
-  cursor: pointer;
-}`;  
-
-
 const LeadWrapperDiv = styled.div`
   margin: auto, 
   display: inline-block;

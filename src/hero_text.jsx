@@ -41,7 +41,7 @@ export default class HeroText extends Component {
 		return(
 			<HeroDiv className="hero text">
 				<h1 style={header}>Praxis is built<br />for engineers like you.</h1>
-				<h3 style={subHeader}>With free next day delivery, 5-axis printing,<br/> and the simplest upload page ever we make prototyping easier in NYC.</h3>
+				<h3 style={subHeader}>Our 5-axis printers<br/>produce accurate and affordable<br/>prints that look like, feel like, and work like your final products.</h3>
 			</HeroDiv>
 		)
 	}
