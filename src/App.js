@@ -4,10 +4,9 @@ import ValueIcons from './value_icons.jsx';
 import LeadCaptureButton from './lead_capture.jsx';
 
 const background_div = {
-	Height: "100%",
 	backgroundColor: "#2D7BC8", 
-	paddingTop: "10px", 
-	overflow: "hidden"
+	paddingTop: "30px", 
+	overflow: "hidden",
 }
 
 var render = (
