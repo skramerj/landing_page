@@ -31,8 +31,8 @@ export default class LeadCaptureButton extends Component {
 	render() {
 		return (
 			<div className="lead capture wrapper" style={{textAlign: "center", marginBottom: "200px", margin: "auto", display: "inlineBlock"}}>
-        <a href="https://samkramer.typeform.com/to/eVilad">
-          <MyButton style={{marginTop: "60px", marginBottom: "100px", cursor: "pointer", }}>
+        <a href="https://samkramer1.typeform.com/to/Q8fxU3" target="_blank">
+          <MyButton style={{marginTop: "60px", marginBottom: "40px", cursor: "pointer", }}>
             <p style={{fontFamily: hero_font_1}}>REQUEST YOUR INVITATION KEY</p>
           </MyButton>
         </a>
