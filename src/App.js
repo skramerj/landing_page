@@ -46,7 +46,7 @@ export default class App extends Component {
 
 
   	var typeform = (<div style={{margin: "0px", height: "95vh", padding: "0"}}>
-		  	<iframe id="typeform-full" width="100%" height="100%" frameborder="0" src="https://samkramer1.typeform.com/to/oIDrqI"></iframe> 
+		  	<iframe id="typeform-full" width="100%" height="100%" frameborder="0" title="typeform" src="https://samkramer1.typeform.com/to/oIDrqI"></iframe> 
 		  	<script type="text/javascript" src="https://embed.typeform.com/embed.js"></script>
 		 	</div>)
 
