@@ -11,13 +11,25 @@ const background_div = {
 
 export default class App extends Component {
   render() {
+  	var to_render = (
+  			<div className="background" style={background_div}>
+					<HeroText />
+					<ValueIcons />
+					<LeadCaptureButton />
+				</div>)
+
+  	if (window.innerWidth < 600) {
+  		to_render = (
+  			<div className="background" style={background_div}>
+					<HeroText />
+					<LeadCaptureButton />
+				</div>
+
+  		)
+  	}
 
     return (
-    	<div className="background" style={background_div}>
-				<HeroText />
-				<ValueIcons />
-				<LeadCaptureButton />
-			</div>
+    	to_render
     )
   }
 }
